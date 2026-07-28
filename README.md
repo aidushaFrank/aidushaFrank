@@ -70,10 +70,6 @@ Contributed to a student-built website that shares events, technical resources, 
 
 I help organize a beginner-friendly running club in Los Angeles. I also enjoy hiking, exploring nature, and helping other community college students learn about research and transfer opportunities.
 
-## GitHub Activity
-
-![Aidana's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidushaFrank&show_icons=true&hide_border=true)
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aidana_Kudaibergenova-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidana-kudaibergenova/)
