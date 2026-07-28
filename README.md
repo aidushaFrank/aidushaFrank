@@ -16,7 +16,7 @@ A data pipeline and dashboard for exploring telemetry and sonar data collected b
 
 ## Other Work
 
-### eyeBuddy — Hackathon Project
+### eyeBuddy — Hackathon Project(https://github.com/aidushaFrank/eyeBuddy-extension)
 
 A Chrome extension that helps students reduce eye strain and browse more comfortably during long study or coding sessions.
 
