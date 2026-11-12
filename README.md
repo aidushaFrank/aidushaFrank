@@ -1,8 +1,10 @@
 # Hi, I'm Aidana!
 
-I'm a Linguistics and Computer Science student at UCLA and a Break Through Tech AI Fellow. I'm interested in software engineering and building practical tools for real-world problems.
+I'm a Linguistics and Computer Science student at UCLA, interested in AI engineering, machine learning, and software development.
 
-My research experience has taken me from confidential computing for digital agriculture at Cornell to data center sustainability research with MIT Station1 and marine robotics data at Caltech. I enjoy working across software, data, and research to turn complex information into tools people can actually use.
+I've worked on projects ranging from secure computing for agricultural research at Cornell to marine robotics at Caltech. I'm currently a Break Through Tech AI Fellow, working on an industry-sponsored project with Accenture focused on AI-assisted legal contract analysis.
+
+I enjoy building practical tools, exploring new technologies, and finding ways to make complex problems a little easier to solve.
 
 ## Featured Project
 
